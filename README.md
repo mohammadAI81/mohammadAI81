@@ -12,7 +12,7 @@
 
 ## my activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadAI81&show_icons=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadAI81&size_weight=0.5&count_weight=0.5)
 ## 🛠️ Technologies used
 
 <p align="left"> 
