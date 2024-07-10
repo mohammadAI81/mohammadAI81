@@ -12,7 +12,7 @@
 
 ## my activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadAI81&show_icons=true&theme=white)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadAI81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false" height="160" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadAI81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false" height="170" alt="languages graph"  />
 
 ## 🛠️ Technologies used
 
