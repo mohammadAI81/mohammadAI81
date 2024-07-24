@@ -2,12 +2,9 @@
 
 
 
-# i'm Mohammad Hasan , Backend Developer
+# i'm Mohammad Hasan, Backend Developer
 
-- 🔭 I have been tired for a long time
-- 😄 Our yellow color is a sign of love and friendship
-- ⚡ I step into infinity and love backend development.
-- 🌱 I'm currently learning....um, I don't know
+- I am **Seyyed Mohammad Hassan Emamghorashi**, a *mechanical engineering* student at Persian Gulf University, Bushehr. I am working as a Python programmer in addition to my university studies & learning the **Django framework** and I have made significant progress, but despite the university courses that are difficult and I have little time, I am doing my best to be a successful person for myself, my family and society.
 
 
 ## my activity
@@ -57,8 +54,8 @@
 </p>
 
 
-<!-- ## Connect with me:
+## Connect with me:
 <p align="left">
-<a href="https://twitter.com/mrkaf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrkaf_" height="30" width="40" /></a>
-<a href="https://instagram.com/keshavarz_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshavarz_28" height="30" width="40" /></a>
-</p> -->
+<a href="https://instagram.com/mohammad_ai81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_ai81" height="30" width="40" /></a>
+<a href="https://t.me/MHMD81" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="MHMD81" height="30" width="30" /></a>
+</p>
