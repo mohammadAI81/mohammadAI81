@@ -2,14 +2,13 @@
 
 
 
-# i'm Mohammad Hasan, Backend Developer
 
-- I am **Seyyed Mohammad Hassan Emamghorashi**, a *mechanical engineering* student at Persian Gulf University, Bushehr. I am working as a Python programmer in addition to my university studies & learning the **Django framework** and I have made significant progress, but despite the university courses that are difficult and I have little time, I am doing my best to be a successful person for myself, my family and society.
+- I am **Seyyed Mohammad Hassan Emamghorashi**, a **mechanical engineering** student at *Persian Gulf University*, Bushehr. I am working as a Python programmer in addition to my university studies & learning the **Django framework** and I have made significant progress, but despite the university courses that are difficult and I have little time, I am doing my best to be a successful person for myself, my family and society.
 
 
 ## my activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadAI81&show_icons=true&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadAI81&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadAI81&show_icons=true&theme=white)
 ## 🛠️ Technologies used
 
 <p align="left"> 
@@ -30,12 +29,13 @@
         </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-        </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-        </a> -->
+        </a>  -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-        </a> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
     <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
         </a> 
