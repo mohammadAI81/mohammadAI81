@@ -1,61 +1,226 @@
-### Hi friend 👋
+# Hi, I'm Mohammad Hassan Emamghorashi 👋
 
+### ⚙️ Mechanical Engineering Student | 🐍 Python Developer | 🌐 Django Backend Developer
 
+I'm a **Mechanical Engineering student at Persian Gulf University, Bushehr**, with a strong interest in **Software Development** alongside my academic field.
 
-# i'm Mohammad Hasan, Backend Developer
+Mechanical Engineering is my primary academic background, while **Programming and Backend Development** are the areas in which I am continuously developing my professional skills.
 
-- I am **Seyyed Mohammad Hassan Emamghorashi**, a *mechanical engineering* student at Persian Gulf University, Bushehr. I am working as a Python programmer in addition to my university studies & learning the **Django framework** and I have made significant progress, but despite the university courses that are difficult and I have little time, I am doing my best to be a successful person for myself, my family and society.
+I enjoy combining engineering knowledge with programming to build practical solutions, automate technical processes, analyze engineering data, and solve real-world problems.
 
+---
 
-## my activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadAI81&show_icons=true&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadAI81&size_weight=0.5&count_weight=0.5)
-## 🛠️ Technologies used
+# ⚙️ Mechanical Engineering
 
-<p align="left"> 
-    <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-        </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-        </a>  -->
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-        </a>
-    <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-        </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-        </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-        </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-        </a> -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-        </a> 
-    <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-        </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-        </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-        </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-        </a> 
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-        </a> -->
+Mechanical Engineering is my academic field and an important part of my technical background.
+
+During my university studies, I have developed theoretical and practical knowledge in **mechanical design, CAD modeling, fluid mechanics, CFD, and engineering analysis**.
+
+### 🔧 Engineering Software
+
+<p align="left">
+  <a href="https://www.solidworks.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SOLIDWORKS-EF2D2D?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" />
+  </a>
+  <a href="https://www.autodesk.com/products/powermill/overview" target="_blank">
+    <img src="https://img.shields.io/badge/PowerMill-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="PowerMill" />
+  </a>
+  <a href="https://www.ansys.com/products/fluids/ansys-fluent" target="_blank">
+    <img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" />
+  </a>
+  <img src="https://img.shields.io/badge/EES-Engineering%20Equation%20Solver-555555?style=for-the-badge" alt="EES" />
+  <img src="https://img.shields.io/badge/Gambit-ANSYS-555555?style=for-the-badge" alt="Gambit" />
 </p>
 
+### 🔩 Mechanical Engineering Skills
 
-## Connect with me:
+* 3D CAD Modeling & Mechanical Design
+* Engineering Drawing
+* Computational Fluid Dynamics (CFD)
+* Fluid Mechanics
+* Engineering Analysis
+* Numerical & Computational Methods
+* Engineering Calculations
+* Mechanical Systems & Mechanisms
+
+I have worked on various academic and personal projects involving **3D modeling, mechanical systems, engineering calculations, and simulation**.
+
+---
+
+# 💻 Programming & Software Development
+
+Alongside my Mechanical Engineering studies, I have been seriously and continuously developing my programming skills.
+
+My main programming language is **Python**, with a particular focus on **Backend Development and web applications**.
+
+### 🛠️ Technologies & Tools
+
 <p align="left">
-<a href="https://instagram.com/mohammad_ai81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_ai81" height="30" width="40" /></a>
-<a href="https://t.me/MHMD81" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="MHMD81" height="30" width="30" /></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  </a>
+</p>
+
+### 💡 Programming Skills
+
+* **Python**
+* **Django**
+* **FastAPI**
+* **REST API Development**
+* **Django ORM**
+* **SQL & Relational Databases**
+* **MySQL**
+* **Database Design**
+* **Git & GitHub**
+* **Docker**
+* Object-Oriented Programming
+* Web Application Development
+* Data Processing & Automation
+
+My main interest in software development is building **backend systems, database-driven applications, APIs, and practical web applications**.
+
+---
+
+# 🔗 Engineering × Programming
+
+One of my main interests is combining my two areas of knowledge.
+
+I believe programming can be a powerful tool for engineers — not only for software development, but also for solving engineering problems and improving technical workflows.
+
+Some areas I am interested in:
+
+* 📊 Processing and analyzing engineering data with Python
+* ⚙️ Automating engineering calculations
+* 📈 Visualizing experimental and simulation results
+* 🧮 Developing engineering calculation tools
+* 🤖 Automating repetitive engineering tasks
+* 🌐 Building web applications for engineering purposes
+* 🔬 Applying computational methods to engineering problems
+
+My goal is to gradually build expertise at the intersection of **Mechanical Engineering and Software Development**.
+
+---
+
+# 🚀 Projects
+
+I use GitHub to document my learning, experiments, and projects in both fields.
+
+### ⚙️ Mechanical Engineering Projects
+
+* 🔧 SOLIDWORKS 3D Designs
+* 🌊 ANSYS Fluent CFD Simulations
+* ⚙️ Mechanical Systems & Mechanisms
+* 🧮 Engineering Calculations
+* 📐 CAD & Engineering Design Projects
+
+### 💻 Programming Projects
+
+* 🐍 Python Applications
+* 🌐 Django Web Applications
+* ⚡ FastAPI Projects
+* 🔌 REST APIs
+* 🗄️ Database-driven Applications
+* 🐳 Dockerized Applications
+* 📊 Data Processing & Visualization
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadAI81&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadAI81&layout=compact&hide_border=true" height="170" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+I'm currently focusing on improving my skills in:
+
+### 💻 Software Development
+
+* 🐍 Advanced Python
+* 🌐 Django & Backend Development
+* ⚡ FastAPI & API Development
+* 🗄️ Database Design & Optimization
+* 🐳 Docker
+* 🔐 Authentication & Web Security
+* 🧠 Software Architecture
+* 📊 Data Processing & Engineering Applications
+
+### ⚙️ Mechanical Engineering
+
+At the same time, I continue developing my knowledge and practical skills in:
+
+* Mechanical Design
+* CAD Modeling
+* CFD
+* Engineering Analysis
+* Numerical Methods
+* Mechanical Systems
+
+---
+
+# 🌱 Long-Term Goal
+
+My long-term goal is to become an engineer who can effectively combine **Mechanical Engineering knowledge with Software Development skills**.
+
+I want to use programming not only to build software, but also as a tool for **solving engineering problems, automating technical processes, processing engineering data, and developing useful engineering applications**.
+
+> **Engineering gives me the problem.
+> Programming gives me another way to solve it.**
+
+---
+
+# 📫 Contact Me
+
+I'm open to communication regarding **programming, software development, mechanical engineering, projects, collaboration, and technical discussions**.
+
+### 💻 Programming & Software Development
+
+📧 **Email:** [print.mohammad.gh@gmail.com](mailto:print.mohammad.gh@gmail.com)
+
+### ⚙️ General — Mechanical Engineering & Programming
+
+📧 **Email:** [mohammadghorashi81@gmail.com](mailto:mohammadghorashi81@gmail.com)
+
+### 🇮🇷 Iranian Email
+
+📧 **Email:** [mhmd81@iran.ir](mailto:mhmd81@iran.ir)
+
+### 💬 Telegram
+
+**@MHMD81**
+
+### 💬 Bale Messenger
+
+**@MHMDEN81**
+
+---
+
+<p align="center">
+  <b>⚙️ Mechanical Engineering × 🐍 Python × 🌐 Software Development</b>
+</p>
+
+<p align="center">
+  <i>Learn • Build • Experiment • Improve</i>
 </p>
