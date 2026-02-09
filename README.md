@@ -51,11 +51,14 @@
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
         </a> -->
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Docker-2496ED" alt="webpack" width="40" height="40"/> 
+        </a>
 </p>
 
 
 ## Connect with me:
 <p align="left">
-<a href="https://instagram.com/mohammad_ai81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_ai81" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/mohammad_ai81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_ai81" height="30" width="40" /></a>-->
 <a href="https://t.me/MHMD81" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="MHMD81" height="30" width="30" /></a>
 </p>
