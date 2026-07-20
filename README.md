@@ -3,7 +3,9 @@
 
 
 
-- I am **Seyyed Mohammad Hassan Emamghorashi**, a **mechanical engineering** student at *Persian Gulf University*, Bushehr. I am working as a Python programmer in addition to my university studies & learning the **Django framework** and I have made significant progress, but despite the university courses that are difficult and I have little time, I am doing my best to be a successful person for myself, my family and society.
+Seyyed Mohammad Hassan Imam Qorashi, a mechanical engineering graduate with expertise in modeling, numerical simulation (SolidWorks, ANSYS Fluent, Gambit) and programming (Python, Django, FastAPI, Docker, Git, MySQL). Combining classical engineering with automated analysis by working on 3D design, mapping and flow and heat transfer simulation projects. Portfolio available at GitHub.com/mohammadAI81.
+
+Career Outlook: Working at the frontiers of mechanical engineering, simulation and programming to solve complex industrial problems and develop intelligent and data-driven systems, in key and strategic roles in professional teams.
 
 
 ## my activity
