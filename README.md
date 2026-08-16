@@ -20,16 +20,19 @@ During my university studies, I have developed theoretical and practical knowled
 
 <p align="left">
   <a href="https://www.solidworks.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SOLIDWORKS-EF2D2D?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" />
-  </a>
-  <a href="https://www.autodesk.com/products/powermill/overview" target="_blank">
-    <img src="https://img.shields.io/badge/PowerMill-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="PowerMill" />
-  </a>
-  <a href="https://www.ansys.com/products/fluids/ansys-fluent" target="_blank">
-    <img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" />
-  </a>
-  <img src="https://img.shields.io/badge/EES-Engineering%20Equation%20Solver-555555?style=for-the-badge" alt="EES" />
-  <img src="https://img.shields.io/badge/Gambit-ANSYS-555555?style=for-the-badge" alt="Gambit" />
+  <img src="https://img.shields.io/badge/SOLIDWORKS-EF2D2D?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS" />
+</a>
+<a href="https://www.autodesk.com/products/powermill/overview" target="_blank">
+  <img src="https://img.shields.io/badge/PowerMill-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="PowerMill" />
+</a>
+<a href="https://www.ansys.com/products/structures/ansys-mechanical" target="_blank">
+  <img src="https://img.shields.io/badge/ANSYS%20Mechanical-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Mechanical" />
+</a>
+<a href="https://www.ansys.com/products/fluids/ansys-fluent" target="_blank">
+  <img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" />
+</a>
+<img src="https://img.shields.io/badge/EES-Engineering%20Equation%20Solver-555555?style=for-the-badge" alt="EES" />
+<img src="https://img.shields.io/badge/Gambit-ANSYS-555555?style=for-the-badge" alt="Gambit" />
 </p>
 
 ### 🔩 Mechanical Engineering Skills
