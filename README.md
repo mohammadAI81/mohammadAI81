@@ -62,9 +62,6 @@ My main programming language is **Python**, with a particular focus on **Backend
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" />
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
   </a>
