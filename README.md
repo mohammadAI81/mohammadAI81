@@ -83,8 +83,7 @@ My main programming language is **Python**, with a particular focus on **Backend
 
 * **Python**
 * **Django**
-* **FastAPI**
-* **REST API Development**
+* **Django REST Framework (DRF)**
 * **Django ORM**
 * **SQL & Relational Databases**
 * **MySQL**
@@ -135,8 +134,7 @@ I use GitHub to document my learning, experiments, and projects in both fields.
 
 * 🐍 Python Applications
 * 🌐 Django Web Applications
-* ⚡ FastAPI Projects
-* 🔌 REST APIs
+* 🔌 Django REST Framework (DRF) APIs
 * 🗄️ Database-driven Applications
 * 🐳 Dockerized Applications
 * 📊 Data Processing & Visualization
